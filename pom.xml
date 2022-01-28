@@ -12,7 +12,7 @@
 	<artifactId>myProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>myProject</name>
-	<description>Airline ticket sales system</description>
+	<description> E-commerce project selling second-hand products </description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
